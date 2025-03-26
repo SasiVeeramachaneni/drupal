@@ -1,0 +1,7 @@
+name: 'Custom API Block'
+type: module
+description: 'Provides a block that fetches and displays data from an API.'
+core_version_requirement: ^10 || ^11
+package: Custom
+dependencies:
+  - drupal:block
